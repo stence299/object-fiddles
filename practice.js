@@ -306,4 +306,8 @@ function makeCard(cardNumber1, expirationDate1, securityCode1){
    Have bindCard merge the two parameters together into a new object which contains all the properties from the person as well as the creditcard. While Object.assign would give you the answer, specRunner requires an answer without using it.
 */
 
-  //Code Here
+function bindCard(){
+
+}
+
+  //Code here
